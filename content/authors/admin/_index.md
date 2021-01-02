@@ -6,15 +6,15 @@ title: Ovande Furtado Jr
 superuser: true
 
 # Role/position
-role: Professor of Artificial Intelligence
+role: Faculty Sponsor
 
 # Organizations/Affiliations
 organizations:
-- name: Cal State University
-  url: ""
+- name: Cal State Northridge
+  url: "https://csun.edu"
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include distributed robotics, mobile computing and programmable matter.
+bio: Dr. Furtado is an associated professor in the Kinesiology Department.
 
 interests:
 - Artificial Intelligence
@@ -57,7 +57,7 @@ social:
 #   link: files/cv.pdf
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
-email: ""
+email: "ovande#gmail.com"
 
 # Highlight the author in author lists? (true/false)
 highlight_name: false
