@@ -17,7 +17,7 @@ content:
   autolink: true
 
   # Email form provider
-  #form:
+  form:
     provider:
     formspree:
       id:
