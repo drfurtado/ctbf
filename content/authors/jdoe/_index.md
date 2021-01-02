@@ -1,10 +1,10 @@
 ---
 # Display name
-title: 
+title: John Doe
 
 # Username (this should match the folder name)
 authors:
-- 吳恩達
+- jdoe
 
 # Is this the primary user of the site?
 superuser: false
@@ -14,16 +14,15 @@ role: Professor of Artificial Intelligence
 
 # Organizations/Affiliations
 organizations:
-- name: Stanford University
-  url: ""
+- name: Cal State Northridge
+  url: "https://csun.edu"
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include distributed robotics, mobile computing and programmable matter.
+bio: This is my short bio
 
 interests:
-- Artificial Intelligence
-- Computational Linguistics
-- Information Retrieval
+- Sports
+- Fitness
 
 education:
   courses:
