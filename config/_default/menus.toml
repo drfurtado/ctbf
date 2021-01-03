@@ -9,6 +9,11 @@
 #  weight = 10
 
 [[main]]
+  name = "Home"
+  url = "#index"
+  weight = 20
+
+[[main]]
   name = "News"
   url = "post"
   weight = 20
