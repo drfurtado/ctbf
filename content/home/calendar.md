@@ -19,10 +19,9 @@ advanced:
 
 **Participant Orientation**
 2/04/20 (Thursday) 5 - 6 p.m.
-
 Orientation Link: https://csun.zoom.us/j/85973292737
-**Spring 21 Start Date**
 
+**Spring 21 Start Date**
 2/08/20 (Monday) 5:30 - 6:15 p.m.
 Workout Link:  https://csun.zoom.us/j/83252108028
 
