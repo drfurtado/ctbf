@@ -22,4 +22,4 @@ design:
   view: 3
   columns: "1"
 ---
-[Click here](/news) for all News!
+[Click here](/post) for all News!
