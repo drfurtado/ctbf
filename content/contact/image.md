@@ -9,8 +9,8 @@ headless: true
 # Order that this section appears on the page.
 weight: 20
 
-title:
-subtitle:
+title: Calendar
+subtitle: Spring 2021
 
 design:
   columns: "1"

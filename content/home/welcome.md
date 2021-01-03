@@ -6,9 +6,9 @@
 widget: hero  # See https://wowchemy.com/docs/page-builder/
 headless: true  # This file represents a page section.
 weight: 10  # Order that this section will appear.
-title: "Wowchemy Research Group"
+title: "Welcome to our website!"
 subtitle: ""
-hero_media: welcome.jpg
+hero_media: ctbf-welcome.jpg
 design:
   # Choose how many columns the section has. Valid values: 1 or 2.
   columns: '1'
@@ -17,4 +17,4 @@ advanced:
   css_class:
 ---
 
-The Wowchemy Research Group has been a center of excellence for Artificial Intelligence research, teaching, and practice since its founding in 2016.
+The CSUN Commit to be Fit Program is a FREE online-based group fitness program that aims at helping people of ALL fitness levels reach their goals. These evidence-based workouts are created and led by CSUN Kinesiology students who provide the CSUN campus and community members accessible, innovative, and effective ways to stay healthy.
