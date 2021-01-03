@@ -20,4 +20,8 @@ content:
   columns: '1'
 ---
 
-Please, [click here](https://www.csun.edu/health-human-development/kinesiology/ctbf-program-contact-form) if you need to contact our team leaders via email.
+{{% callout note %}}
+Currently, all our sessions are being conducted online via Zoom. Face-to-face fitness sessions are suspended until further notice.
+{{% /callout %}}
+
+If you have a question about our program, please send e-mail to one of the [program leaders](/people).
