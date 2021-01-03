@@ -20,4 +20,4 @@ content:
   columns: '1'
 ---
 
-Please, [click here](https://www.csun.edu/health-human-development/kinesiology/ctbf-program-contact-form) if you need to contact our team leaders.
+Please, [click here](https://www.csun.edu/health-human-development/kinesiology/ctbf-program-contact-form) if you need to contact our team leaders via email.
