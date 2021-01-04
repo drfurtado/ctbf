@@ -27,14 +27,14 @@ Orientation Link: https://csun.zoom.us/j/85973292737
 
 **Spring 21 Start Date**
 2/08/21 (Monday) 5:30 - 6:15 p.m.
-Workout Link:  https://csun.zoom.us/j/83252108028
+Workout Link: https://csun.zoom.us/j/83252108028
 
 **Pre-test Fitness Assessments** (by appointment only - 20 minute slots) from
 2/08/21 - 2/11/21 (Monday & Thursday) 5 - 7 p.m.   
 Assessment link: https://csun.zoom.us/j/86316527873
 
 **Spring Recess Holiday**
-3/15/21 - 3/21/20=1 -  No Program
+3/15/21 - 3/21/20 -  No Program
 
 **Cesar Chavez Holiday**
 3/31/21 - No Program
