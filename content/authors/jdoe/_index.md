@@ -18,7 +18,7 @@ organizations:
   url: "https://csun.edu"
 
 # Short bio (displayed in user profile at end of posts)
-bio: This is my short bio
+bio: John is the Student Program Director for CTBF.
 
 interests:
 - Sports
@@ -26,15 +26,9 @@ interests:
 
 education:
   courses:
-  - course: PhD in Artificial Intelligence
-    institution: Stanford University
-    year: 2012
-  - course: MEng in Artificial Intelligence
-    institution: Massachusetts Institute of Technology
-    year: 2009
-  - course: BSc in Artificial Intelligence
-    institution: Massachusetts Institute of Technology
-    year: 2008
+  - course: BSc in Exercise Science
+    institution: Cal State Northridge
+    year: 2000-present
 
 # Social/Academic Networking
 # For available icons, see: https://sourcethemes.com/academic/docs/page-builder/#icons
@@ -46,13 +40,11 @@ social:
   link: 'mailto:test@example.org'
 - icon: twitter
   icon_pack: fab
-  link: https://twitter.com/GeorgeCushen
-- icon: google-scholar
+  link: https://twitter.com
+- icon: linkdin
   icon_pack: ai
-  link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
-- icon: github
-  icon_pack: fab
-  link: https://github.com/gcushen
+  link: https://linkedin.com
+
 # Link to a PDF of your resume/CV from the About widget.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
 # - icon: cv
@@ -68,6 +60,6 @@ user_groups:
 - Program Leaders
 ---
 
-吳恩達 is a professor of artificial intelligence at the Stanford AI Lab. His research interests include distributed robotics, mobile computing and programmable matter. He leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
+My name is John Doe and I am a junior in the Kin major's Exercise Science option. My goal is to become a Physical Therapist. Through my course work and experience in the field, I hope to gain insight as to if this is really what I want to pursue, but so far things are looking up as I continue down the pathway to PT school. 
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate.
+I hope to work with children, I have been around children my whole life and it is a population that I feel would be extremely rewarding to work with. While I think that I know I want to work within the realm of Pediatrics, who knows what my interests will be once I am exposed to other populations and specialties! I have an interest in Occupational Therapy as well but I am slightly more drawn to Physical Therapy. 
