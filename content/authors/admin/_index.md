@@ -18,20 +18,22 @@ bio: Dr. Furtado is an associated professor in the Kinesiology Department.
 
 interests:
 - Motor Behavior
-- Computational Linguistics
-- Information Retrieval
+- Motor Skill Assessment
+- Physical Activity
+- Body Composition
+- Statistics
 
 education:
   courses:
-  - course: PhD in Artificial Intelligence
-    institution: Stanford University
-    year: 2012
-  - course: MEng in Artificial Intelligence
-    institution: Massachusetts Institute of Technology
+  - course: PhD in Motor Behavior
+    institution: University of Pittsburgh
     year: 2009
-  - course: BSc in Artificial Intelligence
-    institution: Massachusetts Institute of Technology
-    year: 2008
+  - course: MEng in Motor Behavior
+    institution: University of Pittsburgh
+    year: 2004
+  - course: BSc in Physical Education Teacher Education K-12
+    institution: Federal University of Parana - Brazil
+    year: 1998
 
 # Social/Academic Networking
 # For available icons, see: https://sourcethemes.com/academic/docs/page-builder/#icons
