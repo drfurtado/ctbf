@@ -17,7 +17,7 @@ organizations:
 bio: Dr. Furtado is an associated professor in the Kinesiology Department.
 
 interests:
-- Artificial Intelligence
+- Motor Behavior
 - Computational Linguistics
 - Information Retrieval
 
