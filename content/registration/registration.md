@@ -21,17 +21,17 @@ advanced:
 Registration for Spring 2021 is now open!
 {{% /callout %}}
 
-# Registration form
+## Registration form
 
-CTBF Registration Link: https://csun.sjc1.qualtrics.com/jfe/form/SV_88js7PWCSUYjHUh
+[Click here](https://csun.sjc1.qualtrics.com/jfe/form/SV_88js7PWCSUYjHUh) complete the electronic registration form. 
 
 {{% callout warning %}}
 How often should you attend? You may attend as few as one and as many as four times per week. As you would expect, better results occur with more frequent and consistent workouts.
 {{% /callout %}}
 
-# Required Paperwork
+## Required Paperwork
 
-Each semester, participants must complete paperwork prior to participation. Download, complete, and bring the following forms to your first session.
+Each semester, participants must complete paperwork prior to participation. Download, complete, and bring the following forms to your first online session.
 
 Participant Data Form (required; this is an electronic form, therefore you do not need to print it)
 Waiver of Liability form Fall 20 (required for fall 2020 participation)
