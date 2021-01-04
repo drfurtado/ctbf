@@ -4,7 +4,7 @@
 # Add more sections by duplicating this file and customizing to your requirements.
 
 widget: blank  # See https://wowchemy.com/docs/page-builder/
-headless: true  # This file represents a page section.
+headless: false  # This file represents a page section.
 weight: 20  # Order that this section will appear.
 title: "Calendar"
 subtitle: ""

@@ -31,7 +31,7 @@ education:
   - course: MEng in Motor Behavior
     institution: University of Pittsburgh
     year: 2004
-  - course: BSc in Physical Education Teacher Education K-12
+  - course: BA in Physical Education Teacher Education K-12
     institution: Federal University of Parana - Brazil
     year: 1998
 
