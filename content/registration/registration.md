@@ -21,21 +21,24 @@ advanced:
 Registration for Spring 2021 is now open!
 {{% /callout %}}
 
-## Registration form
+## Registration
 
-[Click here](https://csun.sjc1.qualtrics.com/jfe/form/SV_88js7PWCSUYjHUh) complete the electronic registration form. 
+[Click here](https://csun.sjc1.qualtrics.com/jfe/form/SV_88js7PWCSUYjHUh) complete the electronic Participation Data Form. 
+
+{{% callout note %}}
+When completing the Participation Data Form, you will be asked to complete and sign the **CSUN Waiver of Liability and Hold Harmless Agreement** and the **Visual/Audio Image Release Form (optional)**.
+{{% /callout %}}
 
 {{% callout warning %}}
-How often should you attend? You may attend as few as one and as many as four times per week. As you would expect, better results occur with more frequent and consistent workouts.
+If, when completing the Participation Data Form, it was indicated that medical clearance is recommended, then you will need approval from a health care professional before participating in the CTBF Program.  
 {{% /callout %}}
 
 ## Required Paperwork
 
-Each semester, participants must complete paperwork prior to participation. Download, complete, and bring the following forms to your first online session.
+Each semester, participants must complete the required paperwork prior to participation. 
 
-Participant Data Form (required; this is an electronic form, therefore you do not need to print it)
-Waiver of Liability form Fall 20 (required for fall 2020 participation)
-Waiver of Liability form Spring 21 (required for spring 2021 participation)
-Medical Clearance form (may or may not be required, see PASQ form)
+- Participant Data Form (completed online - refer to the link above)
+- CSUN Waiver of Liability and Hold Harmless Agreement^[Completed concomitantly with the Participant Data Form]  
+- Visual/Audio Image Release Form (optional)^[Completed concomitantly with the Participant Data Form]
 
-For any questions or more information, please contact Travis Watkins at travis.watkins.855@my.csun.edu  or Shabnam Islam, M.S. at shabnam.islam@csun.edu
+For any questions or more information, please contact [Travis Watkins at Shabnam Islam, M.S].(https://ctbf.netlify.app/people/)
