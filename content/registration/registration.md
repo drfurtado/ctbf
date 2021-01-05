@@ -33,7 +33,7 @@ Each semester, participants must complete the following required paperwork prior
 
 - Participant Data Form (completed online - refer to the link above)
 - CSUN Waiver of Liability and Hold Harmless Agreement [^1]   
-- Visual/Audio Image Release Form (optional) 
+- Visual/Audio Image Release Form (optional) [^1]
 
 For any questions or more information, please contact [Travis Watkins at Shabnam Islam, M.S].(https://ctbf.netlify.app/people/)
 
