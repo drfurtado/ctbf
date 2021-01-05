@@ -17,24 +17,22 @@ advanced:
   css_class:
 ---
 
-## Registration
-
-[Click here](https://csun.sjc1.qualtrics.com/jfe/form/SV_88js7PWCSUYjHUh) complete the electronic Participation Data Form. 
+[Click here](https://csun.sjc1.qualtrics.com/jfe/form/SV_88js7PWCSUYjHUh) to complete the electronic Participation Data Form. 
 
 {{% callout note %}}
 When completing the Participation Data Form, you will be asked to complete and sign the **CSUN Waiver of Liability and Hold Harmless Agreement** and the **Visual/Audio Image Release Form (optional)**.
 {{% /callout %}}
 
 {{% callout warning %}}
-If, when completing the Participation Data Form, it was indicated that medical clearance is recommended, then you will need approval from a health care professional before participating in the CTBF Program.  
+If, when completing the Participation Data Form, it was indicated that a medical clearance is recommended, then you will need approval from a health care professional before participating in the CTBF Program.  
 {{% /callout %}}
 
 ## Required Paperwork
 
-Each semester, participants must complete the required paperwork prior to participation. 
+Each semester, participants must complete the following required paperwork prior to participation: 
 
 - Participant Data Form (completed online - refer to the link above)
-- CSUN Waiver of Liability and Hold Harmless Agreement^[Completed concomitantly with the Participant Data Form]  
-- Visual/Audio Image Release Form (optional)^[Completed concomitantly with the Participant Data Form]
+- CSUN Waiver of Liability and Hold Harmless Agreement ^[Completed concomitantly with the Participant Data Form]  
+- Visual/Audio Image Release Form (optional) ^[Completed concomitantly with the Participant Data Form]
 
 For any questions or more information, please contact [Travis Watkins at Shabnam Islam, M.S].(https://ctbf.netlify.app/people/)
