@@ -29,7 +29,7 @@ When completing the Participation Data Form, you will be asked to complete and s
 {{% /callout %}}
 
 {{% callout warning %}}
-When completing the Participation Data Form you will be asked about your medical history. If after answering the questions it is indicated that a medical `clearance is recommended`, then you will need approval from a health care professional before participating in the CTBF Program.  
+When completing the Participation Data Form you will be asked about your medical history. If after answering the questions it is indicated that a medical **clearance is recommended**, then you will need approval from a health care professional before participating in the CTBF Program.  
 {{% /callout %}}
 
 ## Required Paperwork
