@@ -19,9 +19,9 @@ advanced:
 
 ## Participant Data Form
 
-Participants are required to register before taking part of CTBF. We made it simple of participants to register by completing ONE single form online.
+Participants are required to register before taking part of CTBF. We made it simple for participants to register by completing ONE single form online.
 
-{{< cta cta_text="Click here to register" cta_link="http://bit.ly/ctbf-register/" cta_new_tab="true" >}}
+{{< cta cta_text="Click here to register" cta_link="http://bit.ly/ctbf-register" cta_new_tab="true" >}}
 
 
 {{% callout note %}}
@@ -29,7 +29,7 @@ When completing the Participation Data Form, you will be asked to complete and s
 {{% /callout %}}
 
 {{% callout warning %}}
-If, when completing the Participation Data Form, it was indicated that a medical clearance is recommended, then you will need approval from a health care professional before participating in the CTBF Program.  
+When completing the Participation Data Form you will be asked about your medical history. If after answering the questions it is indicated that a medical `clearance is recommended`, then you will need approval from a health care professional before participating in the CTBF Program.  
 {{% /callout %}}
 
 ## Required Paperwork
