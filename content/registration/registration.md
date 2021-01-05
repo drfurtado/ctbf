@@ -17,7 +17,7 @@ advanced:
   css_class:
 ---
 
-[Click here](https://csun.sjc1.qualtrics.com/jfe/form/SV_88js7PWCSUYjHUh) to complete the electronic Participation Data Form. 
+[Click here](https://csun.sjc1.qualtrics.com/jfe/form/SV_88js7PWCSUYjHUh) to complete the electronic Participant Data Form. 
 
 {{% callout note %}}
 When completing the Participation Data Form, you will be asked to complete and sign the **CSUN Waiver of Liability and Hold Harmless Agreement** and the **Visual/Audio Image Release Form (optional)**.
@@ -35,6 +35,6 @@ Each semester, participants must complete the following required paperwork prior
 - CSUN Waiver of Liability and Hold Harmless Agreement [^1]   
 - Visual/Audio Image Release Form (optional) [^1]
 
-For any questions or more information, please contact [Travis Watkins at Shabnam Islam, M.S].(https://ctbf.netlify.app/people/)
+For any questions or more information, please contact [Travis Watkins at Shabnam Islam, M.S](https://ctbf.netlify.app/people/).
 
 [^1]: Completed concomitantly with the Participant Data Form.
