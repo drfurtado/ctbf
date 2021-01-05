@@ -32,7 +32,7 @@ If, when completing the Participation Data Form, it was indicated that a medical
 Each semester, participants must complete the following required paperwork prior to participation: 
 
 - Participant Data Form (completed online - refer to the link above)
-- CSUN Waiver of Liability and Hold Harmless Agreement [^Completed concomitantly with the Participant Data Form]  
-- Visual/Audio Image Release Form (optional) [^Completed concomitantly with the Participant Data Form]
+- CSUN Waiver of Liability and Hold Harmless Agreement [^1]   
+- Visual/Audio Image Release Form (optional) 
 
 For any questions or more information, please contact [Travis Watkins at Shabnam Islam, M.S].(https://ctbf.netlify.app/people/)
