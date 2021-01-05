@@ -17,7 +17,12 @@ advanced:
   css_class:
 ---
 
-[Click here](https://csun.sjc1.qualtrics.com/jfe/form/SV_88js7PWCSUYjHUh) to complete the electronic Participant Data Form. 
+## Participant Data Form
+
+Participants are required to register before taking part of CTBF. We made it simple of participants to register by completing ONE single form online.
+
+{{< cta cta_text="Click here to register" cta_link="http://bit.ly/ctbf-register/" cta_new_tab="true" >}}
+
 
 {{% callout note %}}
 When completing the Participation Data Form, you will be asked to complete and sign the **CSUN Waiver of Liability and Hold Harmless Agreement** and the **Visual/Audio Image Release Form (optional)**.
