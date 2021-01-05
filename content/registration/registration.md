@@ -36,3 +36,5 @@ Each semester, participants must complete the following required paperwork prior
 - Visual/Audio Image Release Form (optional) 
 
 For any questions or more information, please contact [Travis Watkins at Shabnam Islam, M.S].(https://ctbf.netlify.app/people/)
+
+[^1]: Completed concomitantly with the Participant Data Form.
