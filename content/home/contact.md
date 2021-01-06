@@ -17,11 +17,11 @@ content:
   autolink: true
 
   design:
-  columns: '1'
+  columns: '2'
 ---
 
 {{% callout note %}}
 Currently, all our sessions are being conducted online via Zoom. Face-to-face fitness sessions are suspended until further notice.
 {{% /callout %}}
 
-If you have any questions about our program, please send an e-mail to one of the [program leaders](/people).
+If you have any questions about our program, please send an e-mail to one of the [program leaders](people).
