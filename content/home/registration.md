@@ -25,11 +25,11 @@ Participants are required to register before taking part of CTBF. We made it sim
 
 
 {{% callout note %}}
-When completing the Participation Data Form, you will be asked to complete and sign the **CSUN Waiver of Liability and Hold Harmless Agreement** and the **Visual/Audio Image Release Form (optional)**.
+When completing the Participant Data Form, you will be asked to complete and sign both the **CSUN Waiver of Liability and Hold Harmless Agreement** and the **Visual/Audio Image Release Form (optional)**.
 {{% /callout %}}
 
 {{% callout warning %}}
-When completing the Participation Data Form you will be asked about your medical history. If after answering the questions it is indicated that a medical **clearance is recommended**, then you will need approval from a health care professional before participating in the CTBF Program.  
+When completing the Participant Data Form, you will be asked about your medical history. If after answering the questions it is indicated that a medical **clearance is recommended**, you will need approval from a health care professional before participating in the CTBF Program. Please, [contact us](#contact) if you have question.  
 {{% /callout %}}
 
 ## Required Paperwork
