@@ -52,7 +52,7 @@ social:
 - icon: github
   icon_pack: fab
   link: https://github.com/drfurtado
-- icon: linkdin
+- icon: linkedin
   icon_pack: ai
   link: https://linkedin.com/in/ofurtadojr
   
