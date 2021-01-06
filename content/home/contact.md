@@ -33,4 +33,4 @@ content:
 Currently, all our sessions are being conducted online via Zoom. Face-to-face fitness sessions are suspended until further notice.
 {{% /callout %}}
 
-If you have any questions about our program, please send an e-mail to one of the [program leaders](#people).
+Please, use the form below to contact us. A member of our team will respond in a timely manner.
