@@ -85,7 +85,7 @@ show_related = {post = true, project = true, publication = true, talk = true}
 
 # Enter contact details (optional). To hide a field, clear it to "".
 email = ""
-phone = "(818) 677-3205"
+phone = ""
 
 # Address
 # For country_code, use the 2-letter ISO code (see https://en.wikipedia.org/wiki/ISO_3166-1_alpha-2 )
@@ -120,7 +120,7 @@ contact_links = [
 ############################
 
 # Default image for social sharing and search engines. Place image in `static/media/` folder and specify image name here.
-sharing_image = ""
+sharing_image = "twitter.png"
 
 # Twitter username (without @). Used when a visitor shares your site on Twitter.
 twitter = "ctbfit"
