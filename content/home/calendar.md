@@ -5,7 +5,7 @@
 
 widget: blank  # See https://wowchemy.com/docs/page-builder/
 headless: false  # This file represents a page section.
-weight: 20  # Order that this section will appear.
+weight: 30  # Order that this section will appear.
 title: "Calendar"
 subtitle: ""
 hero_media: ctbf-welcome.jpg
