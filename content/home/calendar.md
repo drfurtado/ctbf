@@ -45,5 +45,3 @@ Assessment link: https://csun.zoom.us/j/86316527873
 
 **Spring 2021 Final Session**
 5/06/21 5:30 - 6:15 p.m.
-
-{{< cta cta_text="Click here to register" cta_link="/registration" cta_new_tab="false" >}}
