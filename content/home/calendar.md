@@ -34,7 +34,7 @@ Workout Link: https://csun.zoom.us/j/83252108028
 Assessment link: https://csun.zoom.us/j/86316527873
 
 **Spring Recess Holiday**
-3/15/21 - 3/21/20 -  No Program
+3/15/21 - 3/21/21 -  No Program
 
 **Cesar Chavez Holiday**
 3/31/21 - No Program
@@ -45,3 +45,5 @@ Assessment link: https://csun.zoom.us/j/86316527873
 
 **Spring 2021 Final Session**
 5/06/21 5:30 - 6:15 p.m.
+
+{{% staticref "files/flyer.pdf" %}}Click here{{% /staticref %}} to download our Spring 2021 flyer and help us to promote this program.
