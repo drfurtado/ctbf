@@ -1,7 +1,7 @@
 ---
 title: Calendar for Spring 2021 Released
-date: 2021-01-02
 author: twatkins
+date: 2021-01-02
 ---
 
 We are excited to announce the calendar or Spring 2021.
