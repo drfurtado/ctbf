@@ -6,7 +6,7 @@
 widget: blank  # See https://wowchemy.com/docs/page-builder/
 headless: false  # This file represents a page section.
 weight: 40  # Order that this section will appear.
-title: "Registration"
+title: "Instructors' Area"
 subtitle: ""
 hero_media: ctbf-welcome.jpg
 design:
@@ -17,9 +17,21 @@ advanced:
   css_class:
 ---
 
-## Participant Data Form
+## Interns (KIN494)
 
-Participants are required to register before taking part of CTBF. We made it simple for participants to register by completing ONE single form online.
+Follow the instructions below to apply for KIN 494 internship (CTBF Program):
+
+### Step 1
+
+Download & Install Acrobat Reader DC (FREE) in your computer 
+DO NOT open the form with any application (e.g., Preview for Mac) other than Acrobat Reader DC (for Mac or PC).
+
+
+
+
+
+
+
 
 {{< cta cta_text="Click here to register" cta_link="http://bit.ly/ctbf-register" cta_new_tab="true" >}}
 
