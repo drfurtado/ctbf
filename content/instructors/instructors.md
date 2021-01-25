@@ -27,13 +27,14 @@ Time to complete: 20min
 
 Steps: 
 
-1. Student completes and signs form;
-2. Supervisor receives the form and signs it;
-3. Faculty Lead receives the form and signs it;
-4. Student receives the signed form along with permission number to enroll;
-5. Student enrolls in KIN 494 and upload the signed form to the Canvas KIN 494 Course Page.
+1. Student completes and initials the form. Alternatively, the student can add a digital signature but the initials will suffice;
+2. Student saves the form and sends it via e-email to **Shabnam Islam** (Program Supervisor) 
+3. Program Supervisor signs and sends the form back to student;
+4. Student sends form to [Faculty Lead](https://ctbf.netlify.app/author/ovande-furtado-jr-ph.d./) for approval;
+5. Faculty Lead receives the form, signs it, and sends the form along with the permission number to student to enroll;
+6. Student enrolls in KIN 494 and upload the signed form to the Canvas KIN 494 Course Page.
 
-> Form link: coming soon!
+> Form link: https://bit.ly/2YaBGQF
 
 ## Form 2: Waiver of Liability and Hold Harmless Agreement {#form2}
 
@@ -62,7 +63,7 @@ Steps:
 
 > Form link: http://adobe.ly/368Zk4k 
 
-## Form 4: Internship Orientation Confirmation Form {form4}
+## Form 4: Internship Orientation Confirmation Form {#form4}
 
 Time to complete: 5min
 
@@ -109,4 +110,4 @@ Steps:
 
 > Form link: http://adobe.ly/36blFy1
 
-[^1]: Adobe Sign will send you an e-email; follow the instruction to confirm your e-mail. It may take up to 15 min for the message to arrive. Also, check your Spam folder if the message does not show in your Inbox after about 15min.
+[^1]: Adobe Sign will send you an e-email; follow the instructions to confirm your e-mail. It might take up to 15 min for the message to arrive. Also, check your Spam folder, if the message does not show in your Inbox.
