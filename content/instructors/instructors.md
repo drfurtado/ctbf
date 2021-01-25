@@ -73,7 +73,7 @@ Steps:
 1. Student attends the [**Internship Orientation**](https://canvas.csun.edu/courses/37918)
 2. Following the orientation, student completes and signs the form;
 3. Student receives form back after confirming email [^1];
-4. Student received and downloads signed form;
+4. Student receives and downloads signed form;
 5. Student uploads signed form to the Canvas KIN 494 course page by the deadline.
 
 > Form link: http://adobe.ly/2MkybnU 
