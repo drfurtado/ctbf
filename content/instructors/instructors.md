@@ -6,7 +6,7 @@ widget: blank
 subtitle: ''
 hero_media: ctbf-welcome.jpg
 design:
-  columns: '2'
+  columns: '1'
 advanced:
   css_style: null
   css_class: null
