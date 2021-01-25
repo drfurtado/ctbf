@@ -29,6 +29,11 @@
   weight = 50
 
 [[main]]
+  name = "Instructors Area"
+  url = "instructors"
+  weight = 60
+
+[[main]]
   name = "Contact"
   url = "#contact"
-  weight = 60
+  weight = 70

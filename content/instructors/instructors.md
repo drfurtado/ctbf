@@ -1,57 +1,113 @@
 ---
-# A Demo section created with the Blank widget.
-# Any elements can be added in the body: https://wowchemy.com/docs/writing-markdown-latex/
-# Add more sections by duplicating this file and customizing to your requirements.
-
-widget: blank  # See https://wowchemy.com/docs/page-builder/
-headless: false  # This file represents a page section.
-weight: 40  # Order that this section will appear.
 title: "Instructors' Area"
-subtitle: ""
+headless: no
+weight: 40
+widget: blank
+subtitle: ''
 hero_media: ctbf-welcome.jpg
 design:
-  # Choose how many columns the section has. Valid values: 1 or 2.
   columns: '2'
 advanced:
-  css_style:
-  css_class:
+  css_style: null
+  css_class: null
 ---
-
-## Interns (KIN494)
-
-Follow the instructions below to apply for KIN 494 internship (CTBF Program):
-
-### Step 1
-
-Download & Install Acrobat Reader DC (FREE) in your computer 
-DO NOT open the form with any application (e.g., Preview for Mac) other than Acrobat Reader DC (for Mac or PC).
+[^1] Adobe Sign will send you an e-email; follow the instruction to confirm your e-mail. It may take up to 15 min for the message to arrive. Also, check your Spam folder if the message does not show in your Inbox after about 15min.
 
 
+# Interns (KIN494)
 
+You will need to complete three (4) forms to enroll in the CTBF KIN 494 Internship.
 
+1. Application form
+2. Waiver of Liability and Hold Harmless Agreement
+3. Visual/Audio Image Release Form
+4. Internship Orientation Confirmation Form
 
+## Form 1: Application Form {#form1}
 
+Time to complete: 20min
 
+Steps: 
 
-{{< cta cta_text="Click here to register" cta_link="http://bit.ly/ctbf-register" cta_new_tab="true" >}}
+1. Student completes and signs form;
+2. Supervisor receives the form and signs it;
+3. Faculty Lead receives the form and signs it;
+4. Student receives the signed form along with permission number to enroll;
+5. Student enrolls in KIN 494 and upload the signed form to the Canvas KIN 494 Course Page.
 
+> Form link: coming soon!
 
-{{% callout note %}}
-When completing the Participant Data Form, you will be asked to complete and sign both the **CSUN Waiver of Liability and Hold Harmless Agreement** and the **Visual/Audio Image Release Form (optional)**.
-{{% /callout %}}
+## Form 2: Waiver of Liability and Hold Harmless Agreement {#form2}
 
-{{% callout warning %}}
-When completing the Participant Data Form, you will be asked about your medical history. If after answering the questions, it is indicated that a medical **clearance is recommended**, you will need approval from a health care professional before participating in the CTBF Program. Please, [contact us](#contact) if you have any questions.  
-{{% /callout %}}
+Time to complete: 5min
 
-## Required Paperwork
+Steps: 
 
-Each semester, participants must complete the following required paperwork prior to participation: 
+1. Student completes and signs form;
+2. Supervisor receives it and signs the form;
+3. Faculty Lead receives it and signs the form;
+4. Student receives the signed form along with permission number to enroll;
+5. Student enrolls in KIN 494 and upload the complete form to the Canvas KIN 494 course page by the deadline.
 
-- Participant Data Form (completed online - refer to the link above)
-- CSUN Waiver of Liability and Hold Harmless Agreement [^1]   
-- Visual/Audio Image Release Form (optional) [^1]
+> Form link: http://adobe.ly/2MfMo5z
 
-For any questions or more information, please [contact us](#contact).
+## Form 3: Visual/Audio Image Release Form {#form3}
 
-[^1]: Completed concomitantly with the Participant Data Form.
+Time to complete: 5min
+
+Steps: 
+
+1. Student completes the form online;
+2. Student receives form back after confirming email[^1];
+3. Student downloads signed form;
+4. Student uploads signed form to the Canvas KIN 494 course page by the deadline.
+
+> Form link: http://adobe.ly/368Zk4k 
+
+## Form 4: Internship Orientation Confirmation Form {form4}
+
+Time to complete: 5min
+
+Steps: 
+
+1. Student attends the [**Internship Orientation**](https://canvas.csun.edu/courses/37918)
+2. Following the orientation, student completes and signs the form;
+3. Student receives form back after confirming email[^1];
+4. Student downloads signed form;
+5. Student uploads signed form to the Canvas KIN 494 course page by the deadline.
+
+> Form link: http://adobe.ly/2MkybnU 
+
+----
+
+# Volunteers
+
+In addition to completing [Form #3](#form3), volunteers must complete two (2) other forms (5, 6).
+
+## Form 5: Volunteer Form {#form5}
+
+Time to complete: 10min
+
+Steps:
+
+1. Student completes the form;
+3. Student confirms e-mail[^1];
+4. Supervisor receives it and signs the form;
+5. Faculty Lead receives the form and initials it;
+6. Student receives signed form;
+7. Student downloads the form and sends it via e-mail to Georgie Rubio (HR Assistant) @ georgette.rubio@csun.edu
+
+> Form link: http://adobe.ly/3sWPFaD
+
+## Form 6: CANRA Form {#form6} 
+
+Time to complete: 10min
+
+Steps:
+
+1. Student completes the form;
+2. Student receives form back after confirming email[^1];
+4. Form is sent to HR
+
+> Form link: http://adobe.ly/36blFy1
+
