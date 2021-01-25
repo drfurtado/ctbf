@@ -32,7 +32,7 @@ Steps:
 3. Program Supervisor signs and sends the form back to student;
 4. Student sends form to [Faculty Lead](https://ctbf.netlify.app/author/ovande-furtado-jr-ph.d./) for approval;
 5. Faculty Lead receives the form, signs it, and sends the form along with the permission number to student to enroll;
-6. Student enrolls in KIN 494 and upload the signed form to the Canvas KIN 494 Course Page.
+6. Student enrolls in KIN 494 and upload the signed form to the Canvas KIN 494 course page by the deadline.
 
 > Form link: https://bit.ly/2YaBGQF
 
@@ -43,10 +43,11 @@ Time to complete: 5min
 Steps: 
 
 1. Student completes and signs form;
-2. Supervisor receives it and signs the form;
+2. Student confirms e-mail [^1] and form is sent to Supervisor;
+3. Supervisor receives it and signs the form;
 3. Faculty Lead receives it and signs the form;
-4. Student receives the signed form along with permission number to enroll;
-5. Student enrolls in KIN 494 and upload the complete form to the Canvas KIN 494 course page by the deadline.
+4. Student downloads signed form;
+5. Student uploads signed form to the Canvas KIN 494 course page by the deadline.
 
 > Form link: http://adobe.ly/2MfMo5z
 
@@ -72,7 +73,7 @@ Steps:
 1. Student attends the [**Internship Orientation**](https://canvas.csun.edu/courses/37918)
 2. Following the orientation, student completes and signs the form;
 3. Student receives form back after confirming email [^1];
-4. Student downloads signed form;
+4. Student received and downloads signed form;
 5. Student uploads signed form to the Canvas KIN 494 course page by the deadline.
 
 > Form link: http://adobe.ly/2MkybnU 
@@ -89,12 +90,11 @@ Time to complete: 10min
 
 Steps:
 
-1. Student completes the form;
-3. Student confirms e-mail [^1];
-4. Supervisor receives it and signs the form;
-5. Faculty Lead receives the form and initials it;
-6. Student receives signed form;
-7. Student downloads the form and sends it via e-mail to Georgie Rubio (HR Assistant) @ georgette.rubio@csun.edu
+1. Volunteer completes the form and confirms e-mail [^1];
+2. Supervisor receives it and signs the form;
+3. Faculty Lead receives the form and initials it;
+4. Volunteer receives and downloads signed form;
+5. Volunteer sends the form via e-mail to Georgie Rubio (HR Assistant) @ georgette.rubio@csun.edu
 
 > Form link: http://adobe.ly/3sWPFaD
 
@@ -104,10 +104,11 @@ Time to complete: 10min
 
 Steps:
 
-1. Student completes the form;
-2. Student receives form back after confirming email [^1];
-4. Form is sent to HR
+1. Volunteer completes the form [^2];
+2. Volunteer receives form back after confirming email [^1];
+4. Form is automatically sent to HR; **there is no need** to e-mail form to HR.
 
 > Form link: http://adobe.ly/36blFy1
 
 [^1]: Adobe Sign will send you an e-email; follow the instructions to confirm your e-mail. It might take up to 15 min for the message to arrive. Also, check your Spam folder, if the message does not show in your Inbox.
+[^2]: Choose "Volunteer Staff" and input your Student ID in the "Employee ID" field.
