@@ -56,7 +56,7 @@ Time to complete: 5min
 Steps: 
 
 1. Student completes the form online;
-2. Student receives form back after confirming email[^1];
+2. Student receives form back after confirming email [^1];
 3. Student downloads signed form;
 4. Student uploads signed form to the Canvas KIN 494 course page by the deadline.
 
@@ -70,7 +70,7 @@ Steps:
 
 1. Student attends the [**Internship Orientation**](https://canvas.csun.edu/courses/37918)
 2. Following the orientation, student completes and signs the form;
-3. Student receives form back after confirming email[^1];
+3. Student receives form back after confirming email [^1];
 4. Student downloads signed form;
 5. Student uploads signed form to the Canvas KIN 494 course page by the deadline.
 
@@ -89,7 +89,7 @@ Time to complete: 10min
 Steps:
 
 1. Student completes the form;
-3. Student confirms e-mail[^1];
+3. Student confirms e-mail [^1];
 4. Supervisor receives it and signs the form;
 5. Faculty Lead receives the form and initials it;
 6. Student receives signed form;
@@ -104,9 +104,9 @@ Time to complete: 10min
 Steps:
 
 1. Student completes the form;
-2. Student receives form back after confirming email[^1];
+2. Student receives form back after confirming email [^1];
 4. Form is sent to HR
 
 > Form link: http://adobe.ly/36blFy1
 
-[^1] Adobe Sign will send you an e-email; follow the instruction to confirm your e-mail. It may take up to 15 min for the message to arrive. Also, check your Spam folder if the message does not show in your Inbox after about 15min.
+[^1]: Adobe Sign will send you an e-email; follow the instruction to confirm your e-mail. It may take up to 15 min for the message to arrive. Also, check your Spam folder if the message does not show in your Inbox after about 15min.
