@@ -11,8 +11,6 @@ advanced:
   css_style: null
   css_class: null
 ---
-[^1] Adobe Sign will send you an e-email; follow the instruction to confirm your e-mail. It may take up to 15 min for the message to arrive. Also, check your Spam folder if the message does not show in your Inbox after about 15min.
-
 
 # Interns (KIN494)
 
@@ -111,3 +109,4 @@ Steps:
 
 > Form link: http://adobe.ly/36blFy1
 
+[^1] Adobe Sign will send you an e-email; follow the instruction to confirm your e-mail. It may take up to 15 min for the message to arrive. Also, check your Spam folder if the message does not show in your Inbox after about 15min.
