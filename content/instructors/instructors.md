@@ -14,7 +14,7 @@ advanced:
 
 # Interns (KIN494)
 
-You will need to complete three (4) forms to enroll in the CTBF KIN 494 Internship.
+You will need to complete four (4) forms to enroll in the CTBF KIN 494 Internship.
 
 1. [Internship Application Form](#form1)
 2. [Waiver of Liability and Hold Harmless Agreement](#form2)
