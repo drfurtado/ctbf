@@ -14,7 +14,7 @@ advanced:
 
 # Interns (KIN494)
 
-You will need to complete four (4) forms to enroll in the CTBF KIN 494 Internship.
+You will need to complete four (4) forms to enroll in the CTBF KIN 494 Internship:
 
 1. [Internship Application Form](#form1)
 2. [Waiver of Liability and Hold Harmless Agreement](#form2)
@@ -28,11 +28,11 @@ Time to complete: 20min
 Steps: 
 
 1. Student completes and initials the form. Alternatively, the student can add a digital signature but the initials will suffice;
-2. Student saves the form and sends it via e-email to **Shabnam Islam** (Program Supervisor) 
+2. Student saves the form and sends it via e-email to **Shabnam Islam** (Program Supervisor); 
 3. Program Supervisor signs and sends the form back to student;
 4. Student sends form to [Faculty Lead](https://ctbf.netlify.app/author/ovande-furtado-jr-ph.d./) for approval;
 5. Faculty Lead receives the form, signs it, and sends the form along with the permission number to student to enroll;
-6. Student enrolls in KIN 494 and upload the signed form to the Canvas KIN 494 course page by the deadline.
+6. Student enrolls in KIN 494 and uploads the signed form to the Canvas KIN 494 course page by the deadline.
 
 > Form link: https://bit.ly/2YaBGQF
 
