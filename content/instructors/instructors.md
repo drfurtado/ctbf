@@ -27,12 +27,13 @@ Time to complete: 20min
 
 Steps: 
 
-1. Student completes and initials the form. Alternatively, the student can add a digital signature but the initials will suffice;
-2. Student saves the form and sends it via e-email to **Shabnam Islam** (Program Supervisor); 
-3. Program Supervisor signs and sends the form back to student;
-4. Student sends form to [Faculty Lead](https://ctbf.netlify.app/author/ovande-furtado-jr-ph.d./) for approval;
-5. Faculty Lead receives the form, signs it, and sends the form along with the permission number to student to enroll;
-6. Student enrolls in KIN 494 and uploads the signed form to the Canvas KIN 494 course page by the deadline.
+1.Student downloads and saves the form; 
+2. Student completes and initials the form. Alternatively, the student can add a digital signature but the initials will suffice;
+3. Student saves the form and sends it via e-email to **Shabnam Islam** (Program Supervisor); 
+4. Program Supervisor signs and sends the form back to student;
+5. Student sends form to [Faculty Lead](https://ctbf.netlify.app/author/ovande-furtado-jr-ph.d./) for approval;
+6. Faculty Lead receives the form, signs it, and sends the form along with the permission number to student to enroll;
+7. Student enrolls in KIN 494 and uploads the signed form to the Canvas KIN 494 course page by the deadline.
 
 > Form link: https://bit.ly/2YaBGQF
 
@@ -42,8 +43,8 @@ Time to complete: 5min
 
 Steps: 
 
-1. Student completes and signs form;
-2. Student confirms e-mail [^1] and form is sent to Supervisor;
+1. Student completes and signs the form online on any device (even using a smart phone);
+2. After student confirms e-mail [^1],the form is sent to Supervisor;
 3. Supervisor receives it and signs the form;
 3. Faculty Lead receives it and signs the form;
 4. Student downloads signed form;
@@ -57,7 +58,7 @@ Time to complete: 5min
 
 Steps: 
 
-1. Student completes the form online;
+1. Student completes the form online on any device (even using a smart phone);
 2. Student receives form back after confirming email [^1];
 3. Student downloads signed form;
 4. Student uploads signed form to the Canvas KIN 494 course page by the deadline.
@@ -71,7 +72,7 @@ Time to complete: 5min
 Steps: 
 
 1. Student attends the [**Internship Orientation**](https://canvas.csun.edu/courses/37918)
-2. Following the orientation, student completes and signs the form;
+2. Following the orientation, student completes and signs the form online on any device (even using a smart phone);
 3. Student receives form back after confirming email [^1];
 4. Student receives and downloads signed form;
 5. Student uploads signed form to the Canvas KIN 494 course page by the deadline.
@@ -90,7 +91,7 @@ Time to complete: 10min
 
 Steps:
 
-1. Volunteer completes the form and confirms e-mail [^1];
+1. Volunteer completes the form online and confirms e-mail [^1];
 2. Supervisor receives it and signs the form;
 3. Faculty Lead receives the form and initials it;
 4. Volunteer receives and downloads signed form;
@@ -104,7 +105,7 @@ Time to complete: 10min
 
 Steps:
 
-1. Volunteer completes the form [^2];
+1. Volunteer completes the form online [^2];
 2. Volunteer receives form back after confirming email [^1];
 4. Form is automatically sent to HR; **there is no need** to e-mail form to HR.
 
