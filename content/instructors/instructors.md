@@ -27,7 +27,7 @@ Time to complete: 20min
 
 Steps: 
 
-1.Student downloads and saves the form; 
+1. Student downloads and saves the form; 
 2. Student completes and initials the form. Alternatively, the student can add a digital signature but the initials will suffice;
 3. Student saves the form and sends it via e-email to **Shabnam Islam** (Program Supervisor); 
 4. Program Supervisor signs and sends the form back to student;
