@@ -19,12 +19,14 @@ advanced:
 
 ## Step 1: Participant Registration Form {#step1}
 
-Participants are required to register before taking part of CTBF. We made it simple for participants to register by completing ONE single form online.
+Participants are required to register before taking part of CTBF.
 
+{{% callout note %}}
 The Spring 2021 Participant Registration Form will be available here soon!
+{{% /callout %}}
 
 {{% callout warning %}}
-When completing the Participant Data Form, you will be asked about your medical history. If after answering the questions, it is indicated that a medical **clearance is recommended**, you will need approval from a health care professional before participating in the CTBF Program. Please, [contact us](#contact) if you have any questions.  
+When completing the Participant Registration Form, you will be asked about your medical history. If after answering the questions, it is indicated that a medical **clearance is recommended**, you will need approval from a health care professional before participating in the CTBF Program. Please, [contact us](#contact) if you have any questions.  
 {{% /callout %}}
 
 ## Step 2: Required Paperwork
