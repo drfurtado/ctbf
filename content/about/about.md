@@ -16,6 +16,6 @@ Commit to Be Fit (CTBF) is a free fitness program for CSUN staff/faculty/student
 
 The workouts consist of cutting edge and scientifically sound functional cardiovascular and resistance training aimed to get you in shape and help you FEEL YOUR BEST! CTBF is designed for all fitness levels and will expand your limits of strength, endurance, flexibility, balance, and cardiovascular health. Learn how to do activities in new ways—move more quickly, think faster, do what you never thought possible! Improved fitness improves your quality of life and makes your world bigger.
 
-The program is offered four times per week during the fall and spring semesters and twice a week in the summer. In the fall and spring semesters, both semi-private* and group exercise options are available. In the summer, only the group option is offered.
+The program is offered **four times per week during the fall and spring semesters and twice a week in the summer**. In the fall and spring semesters, group exercise options are available. In the summer, only the group option is offered.
 
-Due to COVID-19, exercise sessions are being offered online.
+Due to COVID-19, our exercise sessions are being offered online.
