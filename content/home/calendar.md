@@ -1,25 +1,25 @@
 ---
-# A Demo section created with the Blank widget.
-# Any elements can be added in the body: https://wowchemy.com/docs/writing-markdown-latex/
-# Add more sections by duplicating this file and customizing to your requirements.
-
-widget: blank  # See https://wowchemy.com/docs/page-builder/
-headless: false  # This file represents a page section.
-weight: 30  # Order that this section will appear.
 title: "Calendar"
 subtitle: ""
 hero_media: ctbf-welcome.jpg
 design:
-  # Choose how many columns the section has. Valid values: 1 or 2.
   columns: '2'
 advanced:
-  css_style:
-  css_class:
+  css_style: null
+  css_class: null
 ---
 
 {{% callout note %}}
 Currently, all our sessions are being conducted online via Zoom.
 {{% /callout %}}
+
+## Spring 2021 Schedule
+
+Monday-Thursday 5:30-6:20 p.m. PST
+
+Zoom information coming soon!
+
+## Important Dates
 
 **Participant Orientation**
 2/04/21 (Thursday) 5 - 6 p.m.
