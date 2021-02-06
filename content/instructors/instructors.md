@@ -12,7 +12,7 @@ advanced:
   css_class: null
 ---
 
-# Interns (KIN494)
+# Interns (KIN494) {#interns}
 
 You will need to complete four (4) forms to enroll in the CTBF KIN 494 Internship:
 
@@ -81,7 +81,7 @@ Steps:
 
 ----
 
-# Volunteers
+# Volunteers {#volunteers}
 
 In addition to completing [Form #3](#form3), volunteers must complete two (2) other forms (5, 6).
 
