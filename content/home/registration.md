@@ -25,7 +25,7 @@ Participants are required to register before taking part of CTBF.
 
 ## Step 2: Required Paperwork
 
-In addition to completing the [Registration Form](#step1), participants are required to fill in two other online forms.
+In addition to completing the Registration Form (Step 1), participants are required to fill in two other online forms.
 
 ### CSUN Waiver of Liability and Hold Harmless Agreement
 
