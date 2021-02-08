@@ -21,9 +21,7 @@ advanced:
 
 Participants are required to register before taking part of CTBF.
 
-{{% callout note %}}
-The Spring 2021 Participant Registration Form will be available here soon!
-{{% /callout %}}
+> Form link: https://bit.ly/3q12AGJ 
 
 ## Step 2: Required Paperwork
 
