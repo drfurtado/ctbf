@@ -15,7 +15,7 @@ Currently, all our sessions are being conducted online via Zoom.
 
 ## Spring 2021 Schedule
 
-Monday-Thursday 5:30-6:20 p.m. PST
+Monday-Thursday 5:30-6:20 p.m. PDT
 
 Zoom information coming soon!
 
