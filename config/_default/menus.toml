@@ -11,12 +11,12 @@
 [[main]]
   name = "Calendar"
   url = "#calendar"
-  weight = 30
+  weight = 20
 
 [[main]]
   name = "News"
   url = "#news"
-  weight = 20
+  weight = 30
 
 [[main]]
   name = "Registration"
@@ -37,7 +37,6 @@
   name = "About"
   url = "about"
   weight = 80
-
 
 [[main]]
   name = "Contact"
