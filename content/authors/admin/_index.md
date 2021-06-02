@@ -28,7 +28,7 @@ education:
   - course: PhD in Motor Behavior
     institution: University of Pittsburgh
     year: 2009
-  - course: MEng in Motor Behavior
+  - course: MSc in Motor Behavior
     institution: University of Pittsburgh
     year: 2004
   - course: BA in Physical Education Teacher Education K-12
