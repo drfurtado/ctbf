@@ -7,6 +7,9 @@ design:
 advanced:
   css_style: null
   css_class: null
+  
+# Order that this section appears on the page.
+weight: 20
 ---
 
 {{% callout note %}}
