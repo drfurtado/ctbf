@@ -16,22 +16,33 @@ weight: 20
 Currently, all our sessions are being conducted online via Zoom. Note that the Zoom link will be sent via email 24 hours before each workout session.
 {{% /callout %}}
 
-## Summer 2021 Schedule
+## Fall 2021 Schedule
 
-Tuesday & Thursday 5:30-6:30 p.m. PDT
+Monday-Thursday `5:30-6:30 p.m. PST`
 
-The Summer Session goes from June 1 through July 29, 2021.
+The Fall Session goes from `August 30 through December 9, 2021`.
 
 ## Important Dates
 
-**Summer 21 Start Date**
-06/01/21 (Tuesday) 5:30 - 6:30 p.m. PDT
-Workout Zoom Link: link will be share the day before via email
+`Tuesday 9/01/21` - CTBF Intern Orientation 5:00 p.m.
 
-**Summer Recess Holiday**
-06/27/21 - 07/04/21 -  No Program
+`Thursday 9/09/21` - CTBF Participant Orientation at 5:30 p.m. 
 
-**Summer 2021 Final Session**
-07/29/21 5:30 - 6:15 p.m. PDT
+> Live Orientation will be held in RE200
+
+`Mon 9/13/21 - Thurs 9/16/21`: CTBF  Pre-Test Fitness Assessments 
+
+`Mon 9/20/21`: First Day of CTBF Group Training
+
+`Thurs 11/11/21`: Veterans Holiday (no CTBF)
+
+`Wed 11/17/21 - Thur 11/18/21`: CTBF Post-Test Fitness Assessments 
+
+`Mon 11/22/21 - Thurs 11/25/21`: Thanksgiving Break (no CTBF)
+
+`Mon 11/29/21`:  Resume last week of CTBF Group Training 
+
+`Thur 12/02/21`: Last Day of CTBF Group Training
+
 
 {{% staticref "files/flyer.pdf" %}}Click here{{% /staticref %}} to download our Summer 2021 flyer and help us to promote CTBF.
