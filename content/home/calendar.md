@@ -13,7 +13,7 @@ weight: 20
 ---
 
 {{% callout note %}}
-Currently, all our sessions are being conducted online via Zoom. Note that the Zoom link will be sent via email 24 hours before each workout session.
+Currently, most of our sessions are being conducted online via Zoom. Note that the Zoom link will be sent via email 24 hours before each workout session.
 {{% /callout %}}
 
 ## Fall 2021 Schedule
@@ -45,4 +45,4 @@ The Fall Session goes from `August 30 through December 9, 2021`.
 `Thur 12/02/21`: Last Day of CTBF Group Training
 
 
-{{% staticref "files/flyer.pdf" %}}Click here{{% /staticref %}} to download our Summer 2021 flyer and help us to promote CTBF.
+{{% staticref "files/flyer.pdf" %}}Click here{{% /staticref %}} to download our Fall 2021 flyer and help us to promote CTBF.
