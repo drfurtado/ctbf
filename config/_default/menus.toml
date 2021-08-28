@@ -13,10 +13,10 @@
   url = "#calendar"
   weight = 20
 
-[[main]]
-  name = "News"
-  url = "#news"
-  weight = 30
+#[[main]]
+#  name = "News"
+#  url = "#news"
+#  weight = 30
 
 [[main]]
   name = "Registration"
