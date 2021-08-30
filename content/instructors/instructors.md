@@ -50,7 +50,7 @@ Steps:
 4. Student downloads signed form;
 5. Student uploads signed form to the Canvas KIN 494 course page by the deadline.
 
-> Form link: http://adobe.ly/2MfMo5z
+> Form link: coming soon!
 
 ## Form 3: Visual/Audio Image Release Form {#form3}
 
