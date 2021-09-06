@@ -18,7 +18,7 @@ Currently, most of our sessions are being conducted online via Zoom. Note that t
 
 ## Fall 2021 Schedule
 
-Monday-Thursday `5:30-6:30 p.m. PST`
+Monday-Thursday `5:30-6:15 p.m. PST`
 
 The Fall Session goes from `August 30 through December 9, 2021`.
 
@@ -44,5 +44,17 @@ The Fall Session goes from `August 30 through December 9, 2021`.
 
 `Thur 12/02/21`: Last Day of CTBF Group Training
 
+## COVID-19 Protocol
 
-{{% staticref "files/flyer.pdf" %}}Click here{{% /staticref %}} to download our Fall 2021 flyer and help us to promote CTBF.
+{{% callout note %}}
+All faculty, staff, students and community members attending the in-person sessions are required to wear masks, practice social distance and complete the campus clearance survey for proof of entry into RE200.
+
+**Redwood Hall 200 Proof of Entry:**
+
+- [**Student** health screening survey](https://csun.sjc1.qualtrics.com/jfe/form/SV_5anCaY9d8ugxK1T)
+- [**Employee** health screening survey](https://csun.sjc1.qualtrics.com/jfe/form/SV_1TG3XMjYF15dyq9)
+- [**Visitor** health screening survey](https://csun.sjc1.qualtrics.com/jfe/form/SV_4UYv08Fu1kfqvv7)
+
+
+{{% /callout %}}
+
