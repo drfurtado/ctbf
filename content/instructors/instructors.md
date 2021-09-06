@@ -35,7 +35,7 @@ Steps:
 6. Faculty Lead receives the form, signs it, and sends the form along with the permission number to student to enroll;
 7. Student enrolls in KIN 494 and uploads the signed form to the Canvas KIN 494 course page by the deadline.
 
-> Form is coming soon!
+> Form link: https://adobe.ly/3yEo7Zg 
 
 ## Form 2: Waiver of Liability and Hold Harmless Agreement {#form2}
 
