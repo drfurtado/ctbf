@@ -25,15 +25,13 @@ You will need to complete four (4) forms to enroll in the CTBF KIN 494 Internshi
 
 Time to complete: 20min
 
-Steps: 
+Steps
 
-1. Student downloads and saves the form; 
-2. Student completes and initials the form. Alternatively, the student can add a digital signature but the initials will suffice;
-3. Student saves the form and sends it via e-email to **Shabnam Islam** (Program Supervisor); 
-4. Program Supervisor signs and sends the form back to student;
-5. Student sends form to [Faculty Lead](https://ctbf.netlify.app/author/ovande-furtado-jr-ph.d./) for approval;
-6. Faculty Lead receives the form, signs it, and sends the form along with the permission number to student to enroll;
-7. Student enrolls in KIN 494 and uploads the signed form to the Canvas KIN 494 course page by the deadline.
+1. Student completes and signs form. 
+2. The form is sent to professor **Shabnam Islam** (Program Supervisor); 
+3. Program Supervisor checks information and sends it to faculty lead;
+4. Faculty Lead receives the form, signs it, and sends the form along with the permission number to student to enroll;
+5. Student enrolls in KIN 494 and uploads the signed form to the Canvas KIN 494 course page by the deadline.
 
 > Form link: https://adobe.ly/3yEo7Zg 
 
