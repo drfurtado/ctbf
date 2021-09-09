@@ -10,7 +10,7 @@ authors:
 superuser: false
 
 # Role/position
-role: Spring 21 Intern
+role: Fall 21 Volunteer
 
 # Organizations/Affiliations
 organizations:
@@ -49,7 +49,7 @@ email: ""
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
-- Alumni
+- Current Volunteers
 ---
 
 I am a finishing my last year at CSUN in the Kinesiology department!

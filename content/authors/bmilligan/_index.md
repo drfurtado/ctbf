@@ -10,7 +10,7 @@ authors:
 superuser: false
 
 # Role/position
-role: Student Program Director
+role: Past Student Program Director
 
 # Organizations/Affiliations
 organizations:
@@ -50,7 +50,7 @@ email: ""
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
-- Program Leaders
+- Alumni
 ---
 
 My name is Brandi Milligan and I am a senior in kinesiology applied fitness. I am the Student Program Director for CTBF. I hope to graduate and become a Certified Strength and Conditioning Coach through NSCA. My goal is to one day open a facility where I can train athletes of all ages.  

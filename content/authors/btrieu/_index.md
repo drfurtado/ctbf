@@ -10,7 +10,7 @@ authors:
 superuser: false
 
 # Role/position
-role: Director of Fitness
+role: Past Director of Fitness
 
 # Organizations/Affiliations
 organizations:
@@ -55,7 +55,7 @@ email: ""
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
-- Program Leaders
+- Alumni
 ---
 
 "Bryant Trieu serves as the Director of Fitness for the CTBF Program. He earned his Bachelors in Kinesiology, Exercise Science from CSUN in 2020, is concurrently serving as a Medical Officer in the US Army while completing his Master's in Kinesiology, Biomechanics and Exercise Physiology through CSUN, and determined to attend doctoral school to obtain the Doctorate of Physical Therapy (DPT) -- upon acquiring his Master's degree. 
