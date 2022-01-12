@@ -12,13 +12,13 @@ advanced:
 weight: 20
 ---
 
-{{% callout note %}}
-Currently, most of our sessions are being conducted online via Zoom. Note that the Zoom link will be sent via email 24 hours before each workout session.
-{{% /callout %}}
-
 ## Spring 2022 Schedule (coming soon)
 
 ## COVID-19 Protocol
+
+{{% callout note %}}
+Currently, most of our sessions are being conducted online via Zoom. Note that the Zoom link will be sent via email 24 hours before each workout session.
+{{% /callout %}}
 
 {{% callout note %}}
 All faculty, staff, students and community members attending the in-person sessions are required to wear masks, practice social distance and complete the campus clearance survey for proof of entry into RE200.
