@@ -19,4 +19,4 @@ advanced:
 
 The [CSUN](https://csun.edu) Commit to be Fit Program is a FREE online-based group fitness program that aims at helping people of ALL fitness levels reach their goals. These evidence-based workouts are created and led by CSUN Kinesiology students who provide the CSUN campus and community members accessible, innovative, and effective ways to stay healthy. [Read more...](../about)
 
-{{% staticref "files/flyer.pdf" %}}Click here{{% /staticref %}} to download the flyer for Fall 2021.
+{{% staticref "files/flyer-sp22.pdf" %}}Click here{{% /staticref %}} to download the flyer for Spring 2022.
