@@ -15,11 +15,17 @@ weight: 20
 ## Spring 2022 Schedule
 
 CTBF Participant Orientation: 2/3/22
+
 Pre-test Fitness Assessments: 2/7/22-2/10/22
+
 First day of Program: 2/14/22
+
 Spring Recess: 3/21/22-3/24/22
+
 Post-test Fitness Assessments: 4/25/22-4/28/22 
+
 Cesar Chavez Holiday: 3/31/22
+
 Last day of Program: 5/5/22
 
 ## COVID-19 Protocol
