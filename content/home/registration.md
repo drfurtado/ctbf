@@ -21,7 +21,7 @@ advanced:
 
 Participants are required to register before taking part of CTBF.
 
-> [Click Here to open the form](https://bit.ly/3q12AGJ) 
+> [Click here to open the form](https://bit.ly/3q12AGJ) 
 
 ## Step 2: Required Paperwork
 
@@ -33,7 +33,7 @@ In addition to completing the Registration Form (Step 1), participants are requi
 
 ### Visual/Audio Image Release Form
 
-> Form link: http://adobe.ly/368Zk4k
+> [Click here to open the form](http://adobe.ly/368Zk4k)
 
 For any questions or more information, please [contact us](#contact).
 
