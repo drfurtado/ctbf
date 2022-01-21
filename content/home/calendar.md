@@ -17,7 +17,7 @@ weight: 20
 > Program runs Monday-Thursday (2-3/22 – 55/22)
 
 **Event**|**Date**
-------|-----
+:------|:-----
 Participant Orientation|2/3/22
 Pre-test Fitness Assessments|2/7/22-2/10/22
 First day of Program|2/14/22
