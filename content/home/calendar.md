@@ -14,7 +14,7 @@ weight: 20
 
 ## Spring 2022 Schedule
 
-> Program runs Monday-Thursday (2-3/22 – 55/22)
+> The Program runs Monday-Thursday (2-3/22 – 55/22)
 
 **Event**|**Date**
 :------|:-----
