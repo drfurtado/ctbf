@@ -21,7 +21,7 @@ advanced:
 
 Participants are required to register before taking part of CTBF.
 
-> Form link: https://bit.ly/3q12AGJ 
+> [Click Here to open the form](https://bit.ly/3q12AGJ) 
 
 ## Step 2: Required Paperwork
 
@@ -29,7 +29,7 @@ In addition to completing the Registration Form (Step 1), participants are requi
 
 ### CSUN Waiver of Liability and Hold Harmless Agreement
 
-> Form link: http://adobe.ly/2MfMo5z
+> [Click here to open the form](https://na1.documents.adobe.com/public/esignWidget?wid=CBFCIBAA3AAABLblqZhDSXSfgv25lAxYKhrVpXI0sMIMkdjTjXCiMqrKjV6zMI9qf4ClyIv9S6SZLIvVrIC8*)
 
 ### Visual/Audio Image Release Form
 
