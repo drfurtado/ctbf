@@ -26,15 +26,10 @@ Post-test Fitness Assessments|4/25/22-4/28/22
 Cesar Chavez Holiday|3/31/22
 Last day of Program|5/5/22
 
-
 ## COVID-19 Protocol
 
 {{% callout note %}}
-Currently, most of our sessions are being conducted online via Zoom. Note that the Zoom link will be sent via email 24 hours before each workout session.
-{{% /callout %}}
-
-{{% callout note %}}
-All faculty, staff, students and community members attending the in-person sessions are required to wear masks, practice social distance and complete the campus clearance survey for proof of entry into RE200.
+All faculty, staff, students and community members attending the `in-person` sessions are required to wear masks, practice social distance and complete the campus clearance survey for proof of entry into `RE 200`.
 
 **Redwood Hall 200 Proof of Entry:**
 

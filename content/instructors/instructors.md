@@ -21,7 +21,7 @@ You will need to complete four (4) forms to enroll in the CTBF KIN 494 Internshi
 3. [Visual/Audio Image Release Form](#form3)
 4. [Internship Orientation Confirmation Form](#form4)
 
-## Form 1: Application Form {#form1}
+## Form 1: Internship Application Form {#form1}
 
 Time to complete: 20min
 
