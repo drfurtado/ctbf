@@ -22,5 +22,5 @@ The [CSUN](https://csun.edu) Commit to be Fit Program is a FREE `online- and in-
 {{% staticref "files/flyer-su22.pdf" %}}Click here{{% /staticref %}} to download the flyer for Summer 2022.
 
 |                                                                                |                                                                                      |
-|:------------------------------------------------------------------------------:|:------------------------------------------------------------------------------------:|
+|:---------------------------------:|:-----------------------------------:|
 | [<img src="/media/hwb-logo.png" width="100"/>](https://www.csun.edu/wellbeing) | [<img src="/media/Seal-CSUN-Horizontal-186.png" width="200"/>](https://www.csun.edu) |
