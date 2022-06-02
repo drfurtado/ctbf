@@ -19,7 +19,7 @@ advanced:
 
 ## Step 1: Participant Registration Form {#step1}
 
-Participants are required to register before taking part of CTBF.
+Participants are required to register before taking part of CTBF. If you are an instructor, [click here](instructors/index.html).
 
 > [Click here to open the form](https://bit.ly/3q12AGJ) 
 
