@@ -12,24 +12,19 @@ advanced:
 weight: 20
 ---
 
-## Spring 2022 Schedule
+## Summer 2022 Schedule
 
-> The Program runs Monday-Thursday (2-3/22 – 55/22)
+> The Program runs every Tuesday and Thursday from 3 p.m. to 6:30 p.m. in [RE200](https://3dmap.csun.edu/?id=1100#!m/233531) and simultaneously online via zoom (link will be shared via email) for those who cannot make it in-person. 
 
 **Event**|**Date**
 :------|:-----
-Participant Orientation|2/3/22
-Pre-test Fitness Assessments|2/7/22-2/10/22
-`First day of Program` | `2/14/22`
-Spring Recess|3/21/22-3/24/22
-Post-test Fitness Assessments|4/25/22-4/28/22
-Cesar Chavez Holiday|3/31/22
-Last day of Program|5/5/22
+First day of Program | `Tuesday June 07, 2022`
+Last day of Program | `Thursday July 28, 2022`
 
 ## COVID-19 Protocol
 
 {{% callout note %}}
-All faculty, staff, students and community members attending the `in-person` sessions are required to wear masks, practice social distance and complete the campus clearance survey for proof of entry into `RE 200`.
+All faculty, staff, students and community members attending the `in-person` sessions are required to wear masks, practice social distance and complete the campus clearance survey for proof of entry into [RE200](https://3dmap.csun.edu/?id=1100#!m/233531).
 
 **Redwood Hall 200 Proof of Entry:**
 
