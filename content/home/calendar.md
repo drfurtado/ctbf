@@ -12,15 +12,9 @@ advanced:
 weight: 20
 ---
 
-## Summer 2022 Schedule (`NEW`)
+## Fall 2022 Schedule
 
-> The Program runs every `Tuesday` and `Thursday` from` 5:30 p.m. to 6:15 p.m.` in [RE200](https://3dmap.csun.edu/?id=1100#!m/233531) and simultaneously online via zoom (link will be shared via email) for those who cannot make it in-person. 
-To get started, follow the instructions provided under [Registration](#registration).
-
-**Event**|**Date**
-:------|:-----
-First day of Program | `Tuesday June 07, 2022`
-Last day of Program | `Thursday July 28, 2022`
+Information is coming soon!
 
 ## COVID-19 Protocol
 
