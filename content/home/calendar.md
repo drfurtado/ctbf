@@ -14,7 +14,23 @@ weight: 20
 
 ## Fall 2022 Schedule
 
-Information is coming soon!
+Programs runs Monday-Thursday (5:30pm - 6:15pm)
+
+Orientation, Thursday,  9/08/22 
+https://csun.zoom.us/j/88347873413
+
+Pre-test Fitness Assessments for Clients in RE200 and online (Links and Dates Monday - Thursday/ 9/12/22 - 9/15/22)
+CTBF Workout Link: https://csun.zoom.us/j/85875359861
+
+First Day of CTBF Program Group Training
+Monday 9/19/22
+
+CTBF Post-Fitness Tests performed in RE200 and online in breakout rooms
+Monday 11/14 - 11/17
+https://csun.zoom.us/j/85875359861
+
+Last Day of CTBF Group Training
+Thursday, 12/01
 
 ## COVID-19 Protocol
 
