@@ -16,7 +16,7 @@ weight: 20
 
 **Program Runs**
 
--   Monday-Thursday 5:30pm - 6:15pm
+-   Monday-Thursday, 5:30pm - 6:15pm
 
 **Orientation Date**
 
