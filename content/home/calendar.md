@@ -12,36 +12,21 @@ advanced:
 weight: 20
 ---
 
-## Spring 2023 Schedule
+## Summer 2023 Schedule
 
 **Program Runs**
 
--   Monday-Thursday, 5:30pm - 6:15pm
+-   Monday-Thursday, 3:00pm - 6:30pm
 
-**Orientation Date**
-
--   Thursday, 2/03/23 at 5:30pm or 5pm
-
-Orientation Link: <https://csun.zoom.us/my/csunctbf> or <https://csun.zoom.us/j/5227705816>
-
-**Pre-Test Fitness Dates**
-
--   Monday, 2/06/23 through Thursday, 2/09/23 from 5:30pm - 6:15pm (Either in-person Re200 or online on CTBF Workout link)
-
-CTBF Spring 2023 Workout Link:  
-<https://csun.zoom.us/j/89965363392>
+CTBF Summer 2023 Workout Link: <https://csun.zoom.us/s/83807594808?pwd=OTVjQUlpbFo4Ky9FZmVJQXRKZFEzdz09#success>
 
 **First Day of CTBF Group Training**
 
--   Monday, 2/13/23
-
-**Post-Fitness Tests**
-
--   Monday, 5/01/23 and Tuesday, 5/02/23 (Group Classes will also run simultaneously)
+-   Tuesday, 06/06/23
 
 **Last Day of CTBF**
 
--   Thursday, 5/04/23
+-   Thursday, 07/27/23
 
 ## COVID-19 Protocol
 
