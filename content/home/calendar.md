@@ -12,32 +12,18 @@ advanced:
 weight: 20
 ---
 
-## Summer 2023 Schedule
+## Fall 2023 Schedule
 
 **Program Runs**
 
--   Monday-Thursday, 3:00pm - 6:30pm
+-   Monday-Thursday, 5:30 - 6:15 p.m.
 
-CTBF Summer 2023 Workout Link: <https://csun.zoom.us/s/83807594808?pwd=OTVjQUlpbFo4Ky9FZmVJQXRKZFEzdz09#success>
+CTBF Fall 2023 Workout Link: <https://csun.zoom.us/j/83577391300>
 
 **First Day of CTBF Group Training**
 
--   Tuesday, 06/06/23
+-   Tuesday, 09/18/23
 
 **Last Day of CTBF**
 
--   Thursday, 07/27/23
-
-## COVID-19 Protocol
-
-{{% callout note %}} All faculty, staff, students and community members attending the `in-person` sessions are required to wear masks, practice social distance and complete the campus clearance survey for proof of entry into [RE200](https://3dmap.csun.edu/?id=1100#!m/233531).
-
-**Redwood Hall 200 Proof of Entry:**
-
-All CSUN students, employees, or visitors coming onto campus are required to complete the appropriate health screening survey each day before arriving at the CSUN campus. If you are not cleared, do not come to campus; the survey page will provide you with next steps.
-
--   [**Student** health screening survey](https://csun.sjc1.qualtrics.com/jfe/form/SV_5anCaY9d8ugxK1T)
--   [**Employee** health screening survey](https://csun.sjc1.qualtrics.com/jfe/form/SV_1TG3XMjYF15dyq9)
--   [**Visitor** health screening survey](https://csun.sjc1.qualtrics.com/jfe/form/SV_4UYv08Fu1kfqvv7)
-
-{{% /callout %}}
+-   Thursday, 12/07/23
