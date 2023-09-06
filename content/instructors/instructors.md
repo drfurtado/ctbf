@@ -63,7 +63,7 @@ Steps:
 
 [^1]: Adobe Sign will send you an e-email; follow the instructions to confirm your e-mail. It might take up to 15 min for the message to arrive. Also, check your Spam folder, if the message does not show in your Inbox.
 
-> [Click here to open the form](https://na1.documents.adobe.com/public/esignWidget?wid=CBFCIBAA3AAABLblqZhDSXSfgv25lAxYKhrVpXI0sMIMkdjTjXCiMqrKjV6zMI9qf4ClyIv9S6SZLIvVrIC8*)
+> [Click here to open the form](https://na1.documents.adobe.com/public/esignWidget?wid=CBFCIBAA3AAABLblqZhAH2CzlkKAa1NDyR5zvb4-Hk5E5lZHTt0TH2eAp3XmVmGX_YxRYA7ZbBkl7y-CntU0*)
 
 ## Form 4: Visual/Audio Image Release Form {#form4}
 
