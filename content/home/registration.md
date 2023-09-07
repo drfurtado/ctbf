@@ -21,7 +21,7 @@ advanced:
 
 Participants are required to register before taking part of CTBF. If you are an instructor, [click here](instructors/index.html).
 
-> [Click here to open the form](https://forms.office.com/r/ev3K96X5Yq) 
+> [Click here to open the form](https://forms.office.com/r/ev3K96X5Yq)
 
 ## Step 2: Required Paperwork
 
@@ -29,7 +29,7 @@ In addition to completing the Registration Form (Step 1), participants are requi
 
 ### CSUN Waiver of Liability and Hold Harmless Agreement
 
-> [Click here to open the form](https://na1.documents.adobe.com/public/esignWidget?wid=CBFCIBAA3AAABLblqZhDSXSfgv25lAxYKhrVpXI0sMIMkdjTjXCiMqrKjV6zMI9qf4ClyIv9S6SZLIvVrIC8*)
+> [Click here to open the form](https://na1.documents.adobe.com/public/esignWidget?wid=CBFCIBAA3AAABLblqZhDyrWxZELcNzErun_XeZd1zhdBZeGwpGM1PKZtBlbmLGLEc34Jyueo9fPlovct7zGM*)
 
 ### Visual/Audio Image Release Form
 
@@ -37,6 +37,5 @@ In addition to completing the Registration Form (Step 1), participants are requi
 
 For any questions or more information, please [contact us](#contact).
 
-{{% callout warning %}}
-When completing the Participant Registration Form, you will be asked about your medical history. If after answering the questions, it is indicated that a medical **clearance is recommended**, you will need approval from a health care professional before participating in the CTBF Program. Please, [contact us](#contact) if you have any questions.  
+{{% callout warning %}} When completing the Participant Registration Form, you will be asked about your medical history. If after answering the questions, it is indicated that a medical **clearance is recommended**, you will need approval from a health care professional before participating in the CTBF Program. Please, [contact us](#contact) if you have any questions.\
 {{% /callout %}}
