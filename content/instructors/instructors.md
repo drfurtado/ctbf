@@ -44,7 +44,7 @@ Steps
 2.  The form is sent to Professor **Shabnam Islam** (Program Supervisor).
 3.  The Supervisor checks the information and sends it to the faculty lead.
 4.  The Faculty Lead receives the form, signs it, and sends it along with the permission number to the student to enroll.
-    1.  **The permission can be found on page 2 of the signed form**
+    1.  **The permission number can be found on page 2 of the signed form**
 5.  The student enrolls in KIN 494 and uploads the signed form to the Canvas KIN 494 course page by the deadline.
     1.  **Once you enroll using the permission number, a new course will appear on your Canvas course list. Open the KIN 494 section in which you are enrolled and submit the forms following the instructions provided in the Canvas course.**
 
