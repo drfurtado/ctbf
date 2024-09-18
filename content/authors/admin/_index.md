@@ -1,6 +1,6 @@
 ---
 # Display name
-title: Ovande Furtado Jr, Ph.D.
+title: Yeonhak Jung, Ph.D.
 
 # Is this the primary user of the site?
 superuser: true
@@ -14,26 +14,22 @@ organizations:
   url: "https://csun.edu"
 
 # Short bio (displayed in user profile at end of posts)
-bio: Dr. Furtado is an associated professor in the Kinesiology Department.
+bio: Dr. Jung is an Assistant Professor in the Kinesiology Department.
 
 interests:
-- Motor Behavior
-- Motor Skill Assessment
-- Physical Activity
-- Body Composition
-- Statistics
+- Physical Education
+- Education Psychology
 
 education:
   courses:
-  - course: PhD in Motor Behavior
-    institution: University of Pittsburgh
-    year: 2009
-  - course: MSc in Motor Behavior
-    institution: University of Pittsburgh
-    year: 2004
-  - course: BA in Physical Education Teacher Education K-12
-    institution: Federal University of Parana - Brazil
-    year: 1998
+  - course: PhD Physical Education Teaching Education
+    institution: University of Texas at Austin
+  - course: ME.d in Educational Psychology
+    institution: University of Texas at Austin
+  - course: M.A. in Physical Education Pedagogy
+    institution: Korea University
+  - course: BS in Physical Education, Sport and Leisure Studies
+    institution: Korea University
 
 # Social/Academic Networking
 # For available icons, see: https://sourcethemes.com/academic/docs/page-builder/#icons
@@ -42,19 +38,10 @@ education:
 social:
 - icon: envelope
   icon_pack: fas
-  link: 'mailto:ovande.furtado@csun.edu'
-- icon: twitter
-  icon_pack: fab
-  link: https://twitter.com/ofurtado
+  link: 'mailto:yeonhak.jung@csun.edu'
 - icon: google-scholar
   icon_pack: ai
-  link: https://scholar.google.co.uk/citations?hl=en&user=k_S9WIoAAAAJ
-- icon: github
-  icon_pack: fab
-  link: https://github.com/drfurtado
-- icon: linkedin
-  icon_pack: fab
-  link: https://linkedin.com/in/ofurtadojr
+  link: https://scholar.google.com/citations?hl=en&user=RE4Z8_wAAAAJ
   
   
 # Link to a PDF of your resume/CV from the About widget.
@@ -64,7 +51,7 @@ social:
 #   link: files/cv.pdf
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
-email: "ovande@gmail.com"
+#email: ""
 
 # Highlight the author in author lists? (true/false)
 highlight_name: false
@@ -75,4 +62,4 @@ user_groups:
 - Program Leaders
 ---
 
-Dr. Furtado serves as the role of Faculty Sponsor for the CTBF Program. He is currently teaching in the Kinesiology Department.
+Dr. Jung is an Assistant Professor in the Department of Kinesiology. He earned his Ph.D. specializing in physical education teacher education at the University of Texas at Austin. During his doctoral training, he obtained ME.d. in educational psychology. Prior to studying in the U.S., he completed his B.S. in Physical Education, Sport and Leisure Studies and M.A. in Physical Education Pedagogy from Korea University.
