@@ -58,7 +58,7 @@ email: "shabnam.islam@csun.edu"
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
-- Program Leaders
+# - Program Leaders
 ---
 
-For my Master's thesis in Kinesiology at Cal State University Northridge, I co-developed the CSUN Commit to be Fit program under the guidance of Dr. Steven Loy and Dr. Kimberly Henige. Since it's campus-wide implementation in 2013, I have served as the On-Site Supervising Director of this student-led, fitness program which provides free, evidence-based fitness classes to the CSUN campus and surrounding community. I have been a lecturer for the Kinesiology department since 2014 and continue to serve the CSUN campus community by furthering the research and development of the CSUN Commit to be Fit program through my Doctoral Pursuits in Educational Leadership and Policy and by working closely with Dr. Ovande Furtado.  
+For my Master's thesis in Kinesiology at Cal State University Northridge, I co-developed the CSUN Commit to be Fit program under the guidance of Dr. Steven Loy and Dr. Kimberly Henige. Since it's campus-wide implementation in 2013, I have served as the On-Site Supervising Director of this student-led, fitness program which provides free, evidence-based fitness classes to the CSUN campus and surrounding community. I have been a lecturer for the Kinesiology department since 2014 and continue to serve the CSUN campus community by furthering the research and development of the CSUN Commit to be Fit program through my Doctoral Pursuits in Educational Leadership and Policy and by working closely with Dr. Ovande Furtado.
