@@ -29,8 +29,6 @@ content:
       captcha: true
 ---
 
-{{% callout note %}}
-Currently, all our sessions are being conducted online via Zoom. Face-to-face fitness sessions are suspended until further notice.
-{{% /callout %}}
+{{% callout note %}} Currently, all our sessions are being conducted face-to-face. We no longer offer online fitness sessions. {{% /callout %}}
 
 Please, use the form below to contact us. A member of our team will respond in a timely manner.
