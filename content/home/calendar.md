@@ -10,11 +10,9 @@ advanced:
 weight: 20
 ---
 
-## Fall 2024 Schedule
+## Spring 2025 Schedule
 
-Throughout the semester, participants can attend the online or in-person sessions:
-
-### In-person sessions
+### In-person sessions ONLY
 
 Conducted at Redwood Hall 200 - [Click here for directions](https://3dmap.csun.edu/?id=1100#!m/233531)
 
@@ -26,6 +24,7 @@ Conducted at Redwood Hall 200 - [Click here for directions](https://3dmap.csun.e
 
 ## Important Dates
 
--   Fitness Assessments: September 18th and 19th
--   Program Start: September 25th and 26th
--   Final Program: November 20th and 21st
+-  Pre-test Fitness assessments 2/10-2/13
+-  Program start: 2/19; 2/20
+-  Spring break week of 3/17
+-  Post test assessments/final week of program 4/30; 5/1
